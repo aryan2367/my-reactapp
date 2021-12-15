@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/aryan2367/my-reactapp.git/static/css/main.5633049a.chunk.css",
+    "main.js": "/aryan2367/my-reactapp.git/static/js/main.9096522a.chunk.js",
+    "main.js.map": "/aryan2367/my-reactapp.git/static/js/main.9096522a.chunk.js.map",
+    "runtime-main.js": "/aryan2367/my-reactapp.git/static/js/runtime-main.39f9db79.js",
+    "runtime-main.js.map": "/aryan2367/my-reactapp.git/static/js/runtime-main.39f9db79.js.map",
+    "static/css/2.ebe04f07.chunk.css": "/aryan2367/my-reactapp.git/static/css/2.ebe04f07.chunk.css",
+    "static/js/2.4e6cf238.chunk.js": "/aryan2367/my-reactapp.git/static/js/2.4e6cf238.chunk.js",
+    "static/js/2.4e6cf238.chunk.js.map": "/aryan2367/my-reactapp.git/static/js/2.4e6cf238.chunk.js.map",
+    "index.html": "/aryan2367/my-reactapp.git/index.html",
+    "static/css/2.ebe04f07.chunk.css.map": "/aryan2367/my-reactapp.git/static/css/2.ebe04f07.chunk.css.map",
+    "static/css/main.5633049a.chunk.css.map": "/aryan2367/my-reactapp.git/static/css/main.5633049a.chunk.css.map",
+    "static/js/2.4e6cf238.chunk.js.LICENSE.txt": "/aryan2367/my-reactapp.git/static/js/2.4e6cf238.chunk.js.LICENSE.txt",
+    "static/media/b1.1212ef54.jpg": "/aryan2367/my-reactapp.git/static/media/b1.1212ef54.jpg",
+    "static/media/beay.838ed555.webp": "/aryan2367/my-reactapp.git/static/media/beay.838ed555.webp",
+    "static/media/blockbu.9d6b3da8.jpg": "/aryan2367/my-reactapp.git/static/media/blockbu.9d6b3da8.jpg",
+    "static/media/ca.1b6e57ab.png": "/aryan2367/my-reactapp.git/static/media/ca.1b6e57ab.png",
+    "static/media/fgh.d1ac150f.webp": "/aryan2367/my-reactapp.git/static/media/fgh.d1ac150f.webp",
+    "static/media/gen.3c5501a9.webp": "/aryan2367/my-reactapp.git/static/media/gen.3c5501a9.webp",
+    "static/media/ghty.8e3fb9e6.webp": "/aryan2367/my-reactapp.git/static/media/ghty.8e3fb9e6.webp",
+    "static/media/logo.f2b01256.svg": "/aryan2367/my-reactapp.git/static/media/logo.f2b01256.svg",
+    "static/media/pbh.3c479767.webp": "/aryan2367/my-reactapp.git/static/media/pbh.3c479767.webp",
+    "static/media/pro.14333d6a.jpeg": "/aryan2367/my-reactapp.git/static/media/pro.14333d6a.jpeg",
+    "static/media/san.5cf38a9c.jpg": "/aryan2367/my-reactapp.git/static/media/san.5cf38a9c.jpg",
+    "static/media/tyjk.89688dea.webp": "/aryan2367/my-reactapp.git/static/media/tyjk.89688dea.webp",
+    "static/media/yhja.aaa43a1d.jpeg": "/aryan2367/my-reactapp.git/static/media/yhja.aaa43a1d.jpeg",
+    "static/media/yhji.c0b91fb4.jpg": "/aryan2367/my-reactapp.git/static/media/yhji.c0b91fb4.jpg",
+    "static/media/yhjo.3f1e184c.jpeg": "/aryan2367/my-reactapp.git/static/media/yhjo.3f1e184c.jpeg",
+    "static/media/yhjp.c7e21b13.jpg": "/aryan2367/my-reactapp.git/static/media/yhjp.c7e21b13.jpg",
+    "static/media/ylow.bc51503f.jpeg": "/aryan2367/my-reactapp.git/static/media/ylow.bc51503f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f9db79.js",
+    "static/css/2.ebe04f07.chunk.css",
+    "static/js/2.4e6cf238.chunk.js",
+    "static/css/main.5633049a.chunk.css",
+    "static/js/main.9096522a.chunk.js"
+  ]
+}
